@@ -61,7 +61,7 @@ const About = () => {
 								}}
 							>
 								<img
-									src="/abc.jpg"
+									src="/abc.JPG"
 									alt="ABC"
 									style={{
 										width: "100%",

@@ -125,7 +125,7 @@ const Homepage = () => {
 									onMouseLeave={() => setShowScatter(false)}
 								>
 									<img
-										src="/abc.jpg"
+										src="/abc.JPG"
 										alt="Main Visual"
 										className="main-image"
 									/>
