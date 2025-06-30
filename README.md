@@ -25,8 +25,8 @@ Live demo here: <a href="https://ahmadportfolio-two.vercel.app/" target="_blank"
     -   Home
     -   About
     -   Projects
-    -   Articles
     -   Contact
+    -   Play ground
 -   📱 Fully Responsive
 -   🛠 Easy configurations
 
