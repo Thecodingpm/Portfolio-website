@@ -1,0 +1,47 @@
+.hacker-zone {
+    padding: 40px;
+    color: #0f0;
+    background: #000;
+    font-family: monospace;
+  }
+  .animated-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150%;
+    height: 150%;
+    background: linear-gradient(
+      270deg,
+      #ff8c00,
+      #ff0080,
+      #00bfff,
+      #00ff6a,
+      #ff8c00
+    );
+    background-size: 800% 800%;
+    animation: gradientShift 15s ease infinite;
+    filter: blur(40px);
+    transform: translate(-25%, -25%);
+    z-index: 1;
+    border-radius: 12px;
+  }
+  
+  @keyframes gradientShift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes dotMove {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 20px 20px;
+    }
+  }

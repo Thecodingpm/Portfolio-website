@@ -1,0 +1,25 @@
+.fake-terminal {
+	background-color: #0d0d0d;
+	color: #00ff00;
+	font-family: 'Courier New', monospace;
+	padding: 20px;
+	border-radius: 0 0 10px 10px;
+	min-height: 360px;
+	overflow-y: auto;
+}
+
+.terminal-line {
+	display: flex;
+	white-space: pre-wrap;
+	margin-bottom: 5px;
+}
+
+.input-capture input {
+	background: transparent;
+	border: none;
+	color: #00ff00;
+	font-family: 'Courier New', monospace;
+	font-size: 1rem;
+	outline: none;
+	width: 100%;
+}
