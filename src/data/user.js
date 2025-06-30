@@ -32,10 +32,10 @@ const INFO = {
 		{
 			title: "Project 1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A modern and responsive portfolio website built with React to showcase my skills, projects, and professional experience as a Full Stack Developer",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "hhttps://github.com/Thecodingpm",
+			link: "https://github.com/Thecodingpm/Portfolio-website.git",
 		},
 
 		{

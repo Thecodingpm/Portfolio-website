@@ -1,4 +1,4 @@
-# Reactfolio V1.2 👩🏽‍🚀
+# Ahmad Muaaz Portfolio 🚀
 
 Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
 
@@ -7,7 +7,7 @@ Reactfolio is a modern and customizable personal portfolio web template built us
   <img src="./portfolio-preview.png" alt="Website Preview" width="80%" />
 </p>
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://ahmadportfolio-two.vercel.app/" target="_blank">ahmadportfolioex.vercel.app</a>
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
@@ -134,8 +134,8 @@ Directory: `/src/data/`
     	{
     		page: "home",
     		description:
-    			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-    		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+    			"I'm Ahmad Muaaz, a Full Stack Developer with experience in React, Laravel, Node.js and building modern web applications.",
+    		keywords: ["Ahmad", "Muaaz", "Full Stack Developer", "Portfolio", "React", "Pakistan"]
     	},
     ];
     ```
